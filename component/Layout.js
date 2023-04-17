@@ -15,12 +15,7 @@ export default function Layout({ title, children }) {
         <div className={Styles.header}>
           <div>
             <a href="#">
-              <img
-                className={Styles.logoimg}
-                src="https://flowbite.com/docs/images/logo.svg"
-                alt="Flowbite Logo"
-              />
-              <span className={Styles.logo}>Flowbite</span>
+              <span className={Styles.logo}>jinbinstie</span>
             </a>
           </div>
           <Link href="/project" className={Styles.list}>

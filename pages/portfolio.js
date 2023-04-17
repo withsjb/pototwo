@@ -141,10 +141,10 @@ export default function ad() {
                 <div class="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-blue-500 shadow"></div>
               </div>
               <div class="bg-blue-500 col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
-                <h3 class="font-semibold text-lg mb-1">Lorem ipsum</h3>
+                <h3 class="font-semibold text-lg mb-1">배움</h3>
                 <p class="leading-tight text-justify">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Vitae, facilis.
+                  언제나 새로운 것을 배우고 읽으려 합니다. 새로운것을 두려워하지
+                  않습니다.
                 </p>
               </div>
             </div>

@@ -40,7 +40,7 @@ export default function Home() {
             </Link>
           </figure>
           <figure>
-            <Link href="https://wapaap.vercel.app/nextshopmain">
+            <Link href="https://wapaap-withsjb.vercel.app/">
               <img src="images/nextshopp.jpg"></img>
               <p className={Styles.textb}>NextShop</p>
             </Link>
